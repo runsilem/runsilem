@@ -7,7 +7,7 @@ Elektrik & Elektronik Mühendisliği 3. sınıf öğrencisiyim. MATLAB, Simulink
 ## 👀 Profil Ziyaretleri
 ![Ziyaretçi](https://komarev.com/ghpvc/?username=runsilem&color=ff69b4&label=Z%C4%B0YARET)
 
-![Visitors](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&label=Ziyaretçi&color=lightgrey&style=for-the-badge)
+![Visitors](https://custom-icon-badges.demolab.com/badge/Ziyaretçi-12345-ff69b4?style=for-the-badge&logo=eye&logoColor=white&labelColor=purple)
 
 
 - 🔭 Şu an: 7 parçalık “MATLAB Mini Proje Serisi”
