@@ -4,12 +4,10 @@ Welcome!
 
 Elektrik & Elektronik Mühendisliği 3. sınıf öğrencisiyim. MATLAB, Simulink, Python, SolidWorks ve pratik devre tasarımına odaklanıyorum. Minimal ama öğretici projeler üretiyorum — her hafta seviye atlayan mini projelerle ilerliyorum.
 
-You are visitor number: 
-![Profile views](https://komarev.com/ghpvc/?username=runsilem&color=blue&label=PROFILE+VIEWS)
 
 <div align="center">
   <h3>🎉 You are my guest — thank you! 😍</h3>
-  <img src="https://profile-counter.glitch.me/runsilem/count.svg" />
+![Profile views](https://komarev.com/ghpvc/?username=runsilem&color=blue&label=PROFILE+VIEWS)
 </div>
 
 
