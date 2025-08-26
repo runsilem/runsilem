@@ -6,7 +6,8 @@ Elektrik & Elektronik Mühendisliği 3. sınıf öğrencisiyim. MATLAB, Simulink
 
 ## 👀 You are visitor number:
 
-![Visitors](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&label=Ziyaretçi&color=0e75b6&style=flat-square)
+![Visitor Count](https://profile-counter.glitch.me/runsilem/count.svg)
+
 
 
 
