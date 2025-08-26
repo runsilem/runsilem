@@ -5,7 +5,7 @@ Welcome!
 Elektrik & Elektronik Mühendisliği 3. sınıf öğrencisiyim. MATLAB, Simulink, Python, SolidWorks ve pratik devre tasarımına odaklanıyorum. Minimal ama öğretici projeler üretiyorum — her hafta seviye atlayan mini projelerle ilerliyorum.
 
 You are visitor number: 
-![Visitor Count](https://profile-counter.glitch.me/runsilem/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=runsilem&color=blue&label=PROFILE+VIEWS)
 
 
 - 🔭 Şu an: 7 parçalık “MATLAB Mini Proje Serisi”
