@@ -7,6 +7,12 @@ Elektrik & Elektronik Mühendisliği 3. sınıf öğrencisiyim. MATLAB, Simulink
 You are visitor number: 
 ![Profile views](https://komarev.com/ghpvc/?username=runsilem&color=blue&label=PROFILE+VIEWS)
 
+<div align="center">
+  <h3>🎉 You are my guest — thank you! 😍</h3>
+  <img src="https://profile-counter.glitch.me/runsilem/count.svg" />
+</div>
+
+
 
 - 🔭 Şu an: 7 parçalık “MATLAB Mini Proje Serisi”
 - 🎯 İlgi: Kontrol sistemleri, sinyal işleme, PCB & gömülü
