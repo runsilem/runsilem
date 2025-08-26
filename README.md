@@ -4,8 +4,7 @@ Welcome!
 
 Elektrik & Elektronik Mühendisliği 3. sınıf öğrencisiyim. MATLAB, Simulink, Python, SolidWorks ve pratik devre tasarımına odaklanıyorum. Minimal ama öğretici projeler üretiyorum — her hafta seviye atlayan mini projelerle ilerliyorum.
 
-## 👀 Profil Ziyaretleri
-![Ziyaretçi](https://komarev.com/ghpvc/?username=runsilem&color=ff69b4&label=Z%C4%B0YARET)
+## 👀 You are visitor number:
 
 ![Visitors](https://custom-icon-badges.demolab.com/badge/Ziyaretçi-12345-ff69b4?style=for-the-badge&logo=eye&logoColor=white&labelColor=purple)
 
